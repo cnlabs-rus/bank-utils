@@ -1,0 +1,19 @@
+{
+  "name": "@cnlabs/bank-utils",
+  "version": "1.0.0",
+  "description": "Helpers for simple work with bank partners",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cnlabs-rus/bank-utils.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "author": "KamMif",
+  "license": "ISC"
+}
