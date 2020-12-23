@@ -1,6 +1,5 @@
-import { BANK_HOSTS } from "./constanst";
+import { BANK_ORIGIN_NODE } from "./constanst";
 
-export function getCurrentBankHost() {
-    const { hostname } = location;
-    return BANK_HOSTS[hostname] || '';
+export function getCurrentBankHost(origin) {
+    return BANK_ORIGIN_NODE[origin] || '';
 }
