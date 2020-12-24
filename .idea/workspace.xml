@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a1c5df9-c636-465f-9c17-1afd0ed59692" name="Default Changelist" comment="add getBankName helper">
+    <list default="true" id="1a1c5df9-c636-465f-9c17-1afd0ed59692" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
       <workItem from="1608723295286" duration="3949000" />
       <workItem from="1608731605580" duration="2041000" />
       <workItem from="1608796180969" duration="25000" />
-      <workItem from="1608808497852" duration="756000" />
+      <workItem from="1608808497852" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="add getBankName helper">
       <created>1608728005533</created>
@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608808632375</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add getBankName helper">
+      <created>1608810204807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608810204807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
