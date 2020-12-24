@@ -1,6 +1,6 @@
 {
   "name": "@cnlabs/bank-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Helpers for simple work with bank partners",
   "main": "dist/index.js",
   "repository": {

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a1c5df9-c636-465f-9c17-1afd0ed59692" name="Default Changelist" comment="" />
+    <list default="true" id="1a1c5df9-c636-465f-9c17-1afd0ed59692" name="Default Changelist" comment="add getBankName helper">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -32,11 +36,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608723294114</updated>
-      <workItem from="1608723295286" duration="1261000" />
+      <workItem from="1608723295286" duration="3949000" />
+      <workItem from="1608731605580" duration="2041000" />
+      <workItem from="1608796180969" duration="25000" />
+      <workItem from="1608808497852" duration="756000" />
     </task>
+    <task id="LOCAL-00001" summary="add getBankName helper">
+      <created>1608728005533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608728005533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add getBankName helper">
+      <created>1608732444648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608732444648</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add getBankName helper">
+      <created>1608808632375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608808632375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add getBankName helper" />
+    <option name="LAST_COMMIT_MESSAGE" value="add getBankName helper" />
   </component>
 </project>
